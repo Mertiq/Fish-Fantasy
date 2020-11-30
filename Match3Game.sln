@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{71276782-93E3-F847-2D4C-7EC722995AEA}") = "Match3Game", "Assembly-CSharp.csproj", "{11CBA6AF-65BE-7263-0E81-8E0D4ED58B9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11CBA6AF-65BE-7263-0E81-8E0D4ED58B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11CBA6AF-65BE-7263-0E81-8E0D4ED58B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11CBA6AF-65BE-7263-0E81-8E0D4ED58B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11CBA6AF-65BE-7263-0E81-8E0D4ED58B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
